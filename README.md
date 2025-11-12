@@ -92,7 +92,7 @@ This project is not just a data visualization; each metric is directly linked to
 
 | Air Quality Tab (AQI) | Hourly Forecast (Today) | Daily Forecast (Monthly) |
 | :---: | :---: | :---: |
-| `[Your AQI Tab Screenshot Here]` | `[Your Today Tab Screenshot Here]` | `[Your Daily Tab Screenshot Here]` |
+| ![pollution](https://github.com/user-attachments/assets/0fbd0224-8039-448a-aa43-43b13c1640e1) | `[Your Today Tab Screenshot Here]` | `[Your Daily Tab Screenshot Here]` |
 
 \</div\>
 
