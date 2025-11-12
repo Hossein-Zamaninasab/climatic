@@ -110,6 +110,6 @@ This project sits at the intersection of my passions for programming (PHP/JS), d
 ## 📚 References
 
 [1] **World Health Organization (WHO).** (2021). *"Ambient (outdoor) air pollution"*. [WHO Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/ambient-\(outdoor\)-air-quality-and-health)
-[2] **State of Global Air.** (2020). *"Report 2020: A Special Report on Global Exposure to Air Pollution and its Health Impacts"*. Health Effects Institute. [Link](https://www.google.com/search?q=https://www.stateofglobalair.org/report/state-global-air-2020)
+[2] **State of Global Air.** (2020). *"Report 2020: A Special Report on Global Exposure to Air Pollution and its Health Impacts"*. Health Effects Institute. [Link](https://www.stateofglobalair.org/report/state-global-air-2020)
 [3] **World Health Organization (WHO).** (2017). *"Radiation: Ultraviolet (UV) radiation"*. [WHO Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation)
 [4] **Zhao, Q., et al.** (2021). *"Global, regional, and national burden of mortality associated with non-optimal ambient temperatures from 2000 to 2019: a three-stage modelling study"*. **The Lancet Planetary Health**, 5(7), e415-e425. [DOI: 10.1016/S2542-5196(21)00081-4](https://doi.org/10.1016/S2542-5196\(21\)00081-4)
