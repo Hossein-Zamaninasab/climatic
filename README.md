@@ -1,6 +1,6 @@
 # 🌦️ Climatic: Weather & Public Health Dashboard
 
-**[⚡️ View the Live Demo ⚡️](https://www.google.com/search?q=https://hsyn.ir/Climatic)**
+**[⚡️ View the Live Demo ⚡️](https://hsyn.ir/Climatic)**
 
 <img width="1600" height="1141" alt="screencapture-hsyn-ir-Climatic-2025-11-12-09_14_58" src="https://github.com/user-attachments/assets/8aa01744-45f8-4c7e-a608-4ee548a08ae3" />
 
@@ -100,9 +100,10 @@ I am **Hossein Zamaninasab**, an M.Sc. Biology student at the University of Olde
 
 This project sits at the intersection of my passions for programming (PHP/JS), data analysis, and spatial epidemiology. It is an attempt to leverage technology to promote public health awareness.
 
-  * **LinkedIn:** [linkedin.com/in/hossein-zamaninasab](https://www.google.com/search?q=https://www.linkedin.com/in/hossein-zamaninasab)
-  * **Google Scholar:** [scholar.google.com/citations?user=sA3vB8cAAAAJ](https://www.google.com/search?q=https://scholar.google.com/citations%3Fuser%3DsA3vB8cAAAAJ)
-  * **GitHub:** [github.com/Hossein-Zamaninasab](https://www.google.com/search?q=https://github.com/Hossein-Zamaninasab)
+* **ResearchGate:** [researchgate.net/profile/Hossein-Zamaninasab](https://www.researchgate.net/profile/Hossein-Zamaninasab/)
+* **Google Scholar:** [scholar.google.com/citations?user=hvk4hwgAAAAJ](https://scholar.google.com/citations?user=hvk4hwgAAAAJ&hl=en)
+* **GitHub:** [github.com/Hossein-Zamaninasab](https://github.com/Hossein-Zamaninasab)
+* **LinkedIn:** [linkedin.com/in/hossein-zamaninasab-39773a2a3](https://www.linkedin.com/in/hossein-zamaninasab-39773a2a3)
 
 -----
 
