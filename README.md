@@ -1,6 +1,6 @@
 # 🌦️ Climatic: Weather & Public Health Dashboard
 
-**[⚡️ View the Live Demo ⚡️](https://hsyn.ir/Climatic)**
+**[⚡️ View the Live Demo ⚡️](https://www.ankommen-in-niedersachsen.com/Climatic)**
 
 <img width="1600" height="1141" alt="screencapture-hsyn-ir-Climatic-2025-11-12-09_14_58" src="https://github.com/user-attachments/assets/8aa01744-45f8-4c7e-a608-4ee548a08ae3" />
 
